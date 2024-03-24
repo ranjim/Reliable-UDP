@@ -1,4 +1,4 @@
-# Assignment 5 : Documentation
+# Reliable UDP using my transfer protocol (MTP)
 
 This is a documentation for the assignment 5 consisting of necessary information and observations.
 
